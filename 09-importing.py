@@ -17,3 +17,15 @@ def choice():
     return "yes a choice"
 
 picky(['1', '2'])
+
+
+
+
+
+
+
+
+
+
+
+
